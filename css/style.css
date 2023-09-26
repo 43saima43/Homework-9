@@ -1,0 +1,27 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+nav{
+    background-color: #02918c;
+}
+ul{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+}
+h1, h2, h3, h6, h4, h5, p, ol, ul{
+    margin: 0;
+}
+#primary_nav{
+    background-color: #02918c;
+}
+#primary_nav #menu ul li a{
+    font-size: 12px;
+    font-weight: 800;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #ffffff;
+    padding: 13.5px 25px;
+    display: inline-block;
+}
